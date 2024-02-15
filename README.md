@@ -14,4 +14,4 @@ $ git clone https://github.com/SILENT-XD/simple
 
 $ cd simple
 
-$ python simple
+$ python 404
