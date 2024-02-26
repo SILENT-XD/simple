@@ -9,4 +9,4 @@ if __name__ == "__main__":
 	except:pass
 	try:os.system("mkdir /sdcard/CP")
 	except:pass
-	__import__("simple").mulai()
+	__import__("simple").menu()
